@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>login page</title>
+</head>
+<body>
+<center>
+<form action="POST" action="Success.html>
+<br>
+Logins:<input type="text" value="  "><br>
+Password:<input type="text" value=" "><br>
+Submit:<input type="submit" value="submit"><br>
+Reset:<input type="submit" value="Reset"><br>
+<a href="C:/Users/user/Documents/success.html">Success</a>
+</center>
+</body>
+</html>
+B.
+<!DOCTYPE html>
+<html>
+<head>
+<title>login page</title>
+</head>
+<body>
+<center>
+<form method="POST" action="Success.html">
+SUCCESS</br>
+<a href="C:/Users/user/Documents/login1.html">Login</a><br>
+</center>
+</body></html>

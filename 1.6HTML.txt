@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>web page</title>
+</head>
+<body bgcolor=pink>
+<p>A couple of paragraphs of normal text</p>
+<p><b> A line with bold formatting</b></p>
+ <hr {
+color :"green"
+}A horizontal line which is green in color</hr><p>green color format</p>
+<p>
+I am using a color name to assign a color to this background
+</p>
+<center> <p>A text,which is located at the top right corner of the page</p></center>
+</head><html>

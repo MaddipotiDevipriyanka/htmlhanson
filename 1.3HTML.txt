@@ -1,0 +1,51 @@
+A
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration</title>
+</head>
+<body>
+<center>
+<h1>Registration</h1>
+<form method="POST" action="next.html">
+User ID : <input type="text" name=TextFIELD value="  "></br><br>
+FirstName : <input type="text" name=TextField value="  "></br><br>
+Last Name : <input type="text" name=TextField value="  "></br><br>
+Address : <input type="TextArea" name=textarea value=" "></br><br>
+country :<label for="country"></label>
+  <select id="country" name="code">
+    <option value="India">535198</option>
+    <option value="England">535197</option>
+    <option value="America">535199</option>
+    <option value="Russia">535298</option>
+  </select></br>
+phone no: <input type="text" name="text filed" value=" "></br></br>
+Zip code : <input type="text" name="text filed" value= " "></br></br>
+Gender : <input type="radio" name = ".." value="male"> male </br>
+<input type="radio" name = ".." value="female">female</br>
+<input type="radio" name = ".." value="other"> other </br>
+
+
+Register: <input type="submit" name="submit">
+<br>
+
+<br>
+
+
+</center>
+</form>
+</body>
+</html>
+
+ b
+<!doctype html>
+<html>
+<head>
+<title>next</title>
+</head>
+<body>
+<center>
+<p>Your date have been uploaded</p>
+</body>
+</center>
+</html>

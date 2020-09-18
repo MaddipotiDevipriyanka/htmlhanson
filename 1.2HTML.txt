@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>submission</title>
+</head>
+<body>
+<center>
+<form method="POST" action="1.1.html">
+<p>"Your details are submitted.Thank you!"</p>
+</center>
+</body>
+</html>

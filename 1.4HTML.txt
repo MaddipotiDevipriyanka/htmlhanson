@@ -1,0 +1,43 @@
+ <!doctype html>
+<html>
+<head>
+<title>table</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+</head>
+<body>
+<center>
+<table style="width:25%">
+<tr><tr>
+<th>Planet name</th>
+
+<th>Year Length</th>
+<th>Day Length</th>
+</tr>
+<td>Mercury</td>
+<td>88 days</td>
+<td>59 days</td>
+
+</tr><tr>
+
+<td>Venus</td>
+<td>225 days</td>
+<td>243 days</td>
+
+</tr><tr>
+
+<td>Earth</td>
+<td>365 days</td>
+<td>24hrs</td>
+</tr>
+<td>Mars</td>
+<td>765 days</td>
+<td>24.6hrs</td>
+</tr>
+</tr>
+</table></center></body></html>
